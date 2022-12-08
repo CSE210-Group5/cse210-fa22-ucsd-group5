@@ -1,6 +1,8 @@
 # Developer Documentation Homepage
 
-Welcome! This is the source for all technical documentation for our CSE 210 project. We are Team GRECo (Group 5). Here you can find the follwing:
+Welcome to Team GRECo (CSE 210 FA 22 Group 5)! 
+
+Here you will find all technical documentation to get you started
 
 - [C4 Model for the Application](https://cse210-group5.github.io/cse210-fa22-ucsd-group5/c4_model/C4_Documentation.html)
 - [Markdown Architectural Decision Records](https://cse210-group5.github.io/cse210-fa22-ucsd-group5/decisions/)
