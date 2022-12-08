@@ -65,4 +65,4 @@ The dependencies are as follows:
 1. The index.html, in the front-end side, calls the enlisted JavaScript components (in the above diagram) for launching and running the 'Tweet Management' application.
 2. The unit tests for the backend APIs in the content-management.js is contained in db.test.js. The unit tests in db.test.js run in an in-memory implementation of fake-indexedDB. 
 
-###### CREDIT - Diagrams drawn using Lucidchart.com and [Dependency Cruiser](https://www.netlify.com/blog/2018/08/23/how-to-easily-visualize-a-projects-dependency-graph-with-dependency-cruiser/)
+#### Attribution - Diagrams drawn using Lucidchart.com and [Dependency Cruiser](https://www.netlify.com/blog/2018/08/23/how-to-easily-visualize-a-projects-dependency-graph-with-dependency-cruiser/)
