@@ -1,9 +1,8 @@
----
-status: {accepted}
-confidence: {high}
-update-date: {October 28, 2022}
----
 # Third Party Libraries
+
+|  Status  | Confidence |   Date    |
+| -------- | ---------- | --------- |
+| accepted |    high    | 28-Oct-22 |
 
 ## Context and Problem Statement
 
