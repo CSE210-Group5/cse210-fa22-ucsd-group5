@@ -1,7 +1,7 @@
 ---
 status: {accepted}
 confidence: {high}
-date: {28-Oct-2022}
+date: {October 28, 2022}
 ---
 # Third Party Libraries
 
