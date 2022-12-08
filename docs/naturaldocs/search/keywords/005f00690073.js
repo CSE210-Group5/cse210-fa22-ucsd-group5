@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_is",["Function"],[["_isUnSaved",,[["TextEditor",,,,0,"File:front-end/text-editor.js:TextEditor._isUnSaved","JavaScriptClass:TextEditor:_isUnSaved"]]]]);

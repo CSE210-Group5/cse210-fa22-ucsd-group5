@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("top",["Class"],[["TopicFactory",,[[,,,,0,"File:front-end/topic-factory.js:TopicFactory","JavaScriptClass:TopicFactory"]]]]);

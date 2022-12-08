@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("not",["Function"],[["notify",,[["AbstractObserverPattern",,,,0,"File:front-end/abstract-observer.js:AbstractObserverPattern.notify","JavaScriptClass:AbstractObserverPattern:notify"]]]]);

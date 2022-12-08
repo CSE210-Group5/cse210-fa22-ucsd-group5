@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_ma",["Function"],[["_makeEditable",,[["AbstractMenuItem",,,,0,"File:front-end/abstract-menu-item.js:AbstractMenuItem._makeEditable","JavaScriptClass:AbstractMenuItem:_makeEditable"]]]]);

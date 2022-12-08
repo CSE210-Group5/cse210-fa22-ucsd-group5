@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_se",["Function"],[["_setSavedStatus",,[["TextEditor",,,,0,"File:front-end/text-editor.js:TextEditor._setSavedStatus","JavaScriptClass:TextEditor:_setSavedStatus"]]]]);

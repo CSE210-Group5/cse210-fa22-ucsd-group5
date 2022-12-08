@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("reg",["Function"],[["registerObserver",,[["AbstractObserverPattern",,,,0,"File:front-end/abstract-observer.js:AbstractObserverPattern.registerObserver","JavaScriptClass:AbstractObserverPattern:registerObserver"]]]]);
