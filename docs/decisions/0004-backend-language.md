@@ -2,7 +2,7 @@
 
 |  Status  | Confidence |   Date    |
 | -------- | ---------- | --------- |
-| Accepted | Moderate | 3-Nov-22 |
+| Decided | Moderate | 3-Nov-22 |
 
 Depends on [ADR-0003](0003-data-storage.md)
 

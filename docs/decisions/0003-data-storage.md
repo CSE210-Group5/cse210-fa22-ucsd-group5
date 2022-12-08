@@ -2,7 +2,7 @@
 
 |  Status  | Confidence |   Date    |
 | -------- | ---------- | --------- |
-| Accepted | Moderate | 28-Oct-22 |
+| Decided | Moderate | 28-Oct-22 |
 
 Supports [ADR-0004](0004-backend-language.md)
 
