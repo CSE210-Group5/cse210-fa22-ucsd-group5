@@ -2,7 +2,7 @@
 
 |  Status  | Confidence |   Date    |
 | -------- | ---------- | --------- |
-| accepted |    high    | 28-Oct-22 |
+| Accepted |    High    | 28-Oct-22 |
 
 ## Context and Problem Statement
 
