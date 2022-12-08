@@ -1,5 +1,7 @@
 # Third Party Libraries
 
+[Return to index](https://cse210-group5.github.io/cse210-fa22-ucsd-group5/decisions/)
+
 |  Status  | Confidence |   Date    |
 | -------- | ---------- | --------- |
 | Decided |    High    | 28-Oct-22 |
