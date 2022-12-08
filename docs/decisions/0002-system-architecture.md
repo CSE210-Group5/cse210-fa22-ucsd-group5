@@ -15,4 +15,4 @@ Design a system architecture for the functionality of supporting the note taking
 
 ## Decision Outcome
 
-![alt text](sys_arch.avif "System Architecture Diagram")
+![alt text](imgs/sys_arch.avif "System Architecture Diagram")
