@@ -17,7 +17,7 @@ In the context of our project,
 6. [FUTURE SCOPE] The 'Tweet Management' System should be able to post notes to twitter, as per the user's selection. 
 
 ## Level 2: Container Diagram
-![alt text](https://github.com/nirmalthomas2609/cse210-fa22-ucsd-group5/blob/msharan/documentation/docs/c4_model/c4_lev2.png "Container Diagram")
+![alt text](c4_lev2.png "Container Diagram")
 
 The Level - 2 Container diagram for the 'Tweet Management' application is axplained as follows:
 
@@ -32,7 +32,7 @@ The Level - 2 Container diagram for the 'Tweet Management' application is axplai
 
 
 ## Level 3: Component Diagram
-![alt text](https://github.com/nirmalthomas2609/cse210-fa22-ucsd-group5/blob/msharan/documentation/docs/c4_model/c4_lev3.png "Component Diagram")
+![alt text](c4_lev3.png "Component Diagram")
 
 The interactions and the dependencies among the API components in the 'Content-Management' JS container is as follows:
 
@@ -60,9 +60,9 @@ The dependencies are as follows:
 8. When the application is executed, all the previously stored notes and folders are rendered for the user to view (or read). 
 
 ## Level 4: Code Map
-![alt text](https://github.com/nirmalthomas2609/cse210-fa22-ucsd-group5/blob/msharan/documentation/docs/c4_model/c4_lev4.svg "Level - 4 Code Map")
+![alt text](c4_lev4.svg "Level - 4 Code Map")
 
 1. The index.html, in the front-end side, calls the enlisted JavaScript components (in the above diagram) for launching and running the 'Tweet Management' application.
 2. The unit tests for the backend APIs in the content-management.js is contained in db.test.js. The unit tests in db.test.js run in an in-memory implementation of fake-indexedDB. 
 
-###### CREDIT - Diagrams drawn on Lucidchart.com
+###### CREDIT - Diagrams drawn using Lucidchart.com and [Dependency Cruiser](https://www.netlify.com/blog/2018/08/23/how-to-easily-visualize-a-projects-dependency-graph-with-dependency-cruiser/)
