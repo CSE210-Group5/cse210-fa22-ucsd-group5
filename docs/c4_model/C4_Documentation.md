@@ -7,7 +7,7 @@ In the context of our project,
 2. Folders are synonymous with topics. 
 
 ## Level 1: System Context Diagram
-![alt text](/c4_model/c4_lev1.png "System Context Diagram")
+![alt text](c4_lev1.png "System Context Diagram")
 
 1. The 'Tweet Management System' is a software that runs on the browser and stores notes locally, using the indexedDB API of the browser.
 2. Any web browser can host the 'Tweet Mangement' application, and use its indexedBD API to store notes locally on the browser.
