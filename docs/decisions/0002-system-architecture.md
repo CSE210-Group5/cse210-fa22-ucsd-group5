@@ -14,6 +14,7 @@ Design a system architecture for the functionality of supporting the note taking
 
 * Cohesion: The architecture needs to put similar code together to allow for easy understanding and usage 
 * Modularity: Modular structure to allow for easy updates for addition or modification of functionality
+* Completeness: Should be able to completely support the initial set of functionality we have planned
 
 ## Decision Outcome
 
