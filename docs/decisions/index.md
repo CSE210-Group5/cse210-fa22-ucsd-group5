@@ -15,6 +15,7 @@
 | [ADR-0005](0005-db-schema-design.md)      | Database Schema Design        |
 | [ADR-0006](0006-frontend-communication.md)| Frontend Communication        |
 | [ADR-0007](0007-unit-testing.md)          | Unit Testing                  | 
+| [ADR-0008](0008-tweet-sharing.md)         | Tweet Sharing                 | 
 
 ### Frontend
 
