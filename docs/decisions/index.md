@@ -38,6 +38,11 @@
 ### Testing
 
 
+| ADR                                       | Decision                      |
+| ---                                       | ---                           |
+| [ADR-3001](3001-testing-types.md)         | Testing Types                 |
+| [ADR-3002](3002-unit-testing-framework.md)| Unit Testing Framework        |
+
 ### Others
 
 <!-- adrlogstop -->
