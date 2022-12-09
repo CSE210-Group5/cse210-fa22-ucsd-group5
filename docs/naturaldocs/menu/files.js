@@ -1,1 +1,1 @@
-﻿NDMenu.OnSectionLoaded("files.js",[[2,"db","File:db/",[[1,"content-management.js"]]],[2,"front-end","File:front-end/",[[1,"abstract-menu-item.js"],[1,"abstract-observer.js"],[1,"menu.js"],[1,"topic-factory.js"],[1,"tweet-factory.js"],[1,"util.js"]]]]);
+﻿NDMenu.OnSectionLoaded("files.js",[[2,"db","File:db/",[[1,"content-management.js"]]],[2,"front-end","File:front-end/",[[1,"abstract-menu-item.js"],[1,"abstract-observer.js"],[1,"menu.js"],[1,"topic-factory.js"],[1,"topic-helper.js"],[1,"tweet-factory.js"],[1,"util.js"]]]]);

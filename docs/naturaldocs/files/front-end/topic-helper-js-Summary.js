@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:front-end/topic-helper.js","topic-helper.js");NDSummary.OnSummaryLoaded("File:front-end/topic-helper.js",[["JavaScript","JavaScript"]],[["Functions","Function"],["Groups","Group"]],[[40,0,1,"Functions","Functions"],[41,0,0,"_createTopicHTMLElement","_createTopicHTMLElement"],[42,0,0,"getActiveTopic","getActiveTopic"]]);
