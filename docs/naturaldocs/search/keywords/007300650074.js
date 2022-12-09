@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("set",["Function"],[["setItemTitleById",,[["AbstractMenuItem",,,,0,"File:front-end/abstract-menu-item.js:AbstractMenuItem.setItemTitleById","JavaScriptClass:AbstractMenuItem:setItemTitleById"]]],["setMenuItemTitle",,[[,,,,0,"File:front-end/util.js:setMenuItemTitle"]]],["setupDB",,[[,,,,0,"File:db/content-management.js:setupDB"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("set",["Function"],[["setTheme",,[[,,,,0,"File:front-end/theme-util.js:setTheme"]]],["setupDB",,[[,,,,0,"File:db/content-management.js:setupDB"]]]]);

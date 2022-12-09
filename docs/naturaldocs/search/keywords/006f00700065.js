@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ope",["Function"],[["openTopic",,[[,,,,0,"File:front-end/topic-helper.js:openTopic"]]]]);

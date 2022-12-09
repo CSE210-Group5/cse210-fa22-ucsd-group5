@@ -1,1 +1,1 @@
-﻿NDFramePage.OnLocationsLoaded([["File","files",0,"^File([0-9]*)$"],["Class","classes",1,"^([A-Za-z]+)Class$"]]);NDMenu.OnTabsLoaded([["File","Files","File:","files.js"],["Class","Classes","JavaScriptClass:","classes.js"]]);
+﻿NDFramePage.OnLocationsLoaded([["File","files",0,"^File([0-9]*)$"]]);NDMenu.OnTabsLoaded([["File","Files","File:","files.js"]]);

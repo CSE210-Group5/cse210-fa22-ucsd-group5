@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rem",["Function"],[["removeTopicHTML",,[[,,,,0,"File:front-end/topic-helper.js:removeTopicHTML"]]]]);
