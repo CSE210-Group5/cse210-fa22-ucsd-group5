@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("cre",["Function"],[["createMenuItemHTML",,[[,,,,0,"File:front-end/util.js:createMenuItemHTML"]]],["createTopic",,[[,,,,0,"File:db/content-management.js:createTopic"]]],["createTweet",,[[,,,,0,"File:db/content-management.js:createTweet"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("cre",["Function"],[["createTopic",,[[,,,,0,"File:db/content-management.js:createTopic"]]],["createTweet",,[[,,,,0,"File:db/content-management.js:createTweet"]]]]);

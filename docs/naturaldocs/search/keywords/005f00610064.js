@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_ad",["Function"],[["_addTopicElementEvents",,[[,,,,0,"File:front-end/topic-helper.js:_addTopicElementEvents"]]]]);
