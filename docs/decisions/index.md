@@ -20,6 +20,9 @@
 
 ### Frontend
 
+| ADR                                       | Decision                      |
+| ---                                       | ---                           |
+| [ADR-1001](1001-app-mode.md)              | Application Mode              |
 
 ### UI/UX
 
