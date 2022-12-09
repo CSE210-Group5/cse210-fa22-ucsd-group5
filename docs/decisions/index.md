@@ -45,6 +45,14 @@
 
 ### Others
 
+| ADR                                       | Decision                      |
+| ---                                       | ---                           |
+| [ADR-9001](9001-internal-docs.md)         | Internal Documentation        |
+| [ADR-9002](9002-source-docs.md)           | Source Code Documentation     |
+| [ADR-9003](9003-sprint-planning.md)       | Sprint Planning Tool          |
+| [ADR-9004](9004-team-messaging.md)        | Team Messaging                |
+
+
 <!-- adrlogstop -->
 
 
