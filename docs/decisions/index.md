@@ -16,6 +16,7 @@
 | [ADR-0006](0006-frontend-communication.md)| Frontend Communication        |
 | [ADR-0007](0007-unit-testing.md)          | Unit Testing                  | 
 | [ADR-0008](0008-tweet-sharing.md)         | Tweet Sharing                 | 
+| [ADR-0009](0009-search-feature.md)        | Search Feature                | 
 
 ### Frontend
 
