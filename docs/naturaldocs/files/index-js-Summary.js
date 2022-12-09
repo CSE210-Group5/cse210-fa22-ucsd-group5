@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:index.js","index.js");NDSummary.OnSummaryLoaded("File:index.js",[["JavaScript","JavaScript"]],[["Functions","Function"],["Groups","Group"]],[[17,0,1,"Functions","Functions"],[18,0,0,"setEventListeners","setEventListeners"],[19,0,0,"initUI","initUI"]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("_sa",["Function"],[["_save",,[["TextEditor",,,,0,"File:front-end/text-editor.js:TextEditor._save","JavaScriptClass:TextEditor:_save"]]]]);

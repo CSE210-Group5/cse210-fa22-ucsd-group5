@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("con",["Function"],[["configureDraggable",,[["AbstractMenuItem",,,,0,"File:front-end/abstract-menu-item.js:AbstractMenuItem.configureDraggable","JavaScriptClass:AbstractMenuItem:configureDraggable"]]]]);

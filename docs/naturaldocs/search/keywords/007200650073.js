@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("res",["Function"],[["reset",,[["TextEditor",,,,0,"File:front-end/text-editor.js:TextEditor.reset","JavaScriptClass:TextEditor:reset"]]]]);

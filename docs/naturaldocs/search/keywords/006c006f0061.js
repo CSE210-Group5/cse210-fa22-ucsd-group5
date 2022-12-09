@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("loa",["Function"],[["load",,[["TopicFactory",,,,0,"File:front-end/topic-factory.js:TopicFactory.load","JavaScriptClass:TopicFactory:load"],["TweetFactory",,,,0,"File:front-end/tweet-factory.js:TweetFactory.load","JavaScriptClass:TweetFactory:load"]]]]);

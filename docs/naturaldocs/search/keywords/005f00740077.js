@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("_tw",["Function"],[["_tweetItemUpdate",,[["Menu",,,,0,"File:front-end/menu.js:Menu._tweetItemUpdate","JavaScriptClass:Menu:_tweetItemUpdate"]]]]);

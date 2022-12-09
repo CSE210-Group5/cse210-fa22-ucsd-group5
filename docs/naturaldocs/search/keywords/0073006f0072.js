@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("sor",["Function"],[["sortElements",,[[,,,,0,"File:front-end/util.js:sortElements"]]]]);

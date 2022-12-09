@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("clo",["Function"],[["close",,[["TextEditor",,,,0,"File:front-end/text-editor.js:TextEditor.close","JavaScriptClass:TextEditor:close"]]]]);

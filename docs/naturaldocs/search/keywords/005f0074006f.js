@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("_to",["Function"],[["_topicItemUpdate",,[["Menu",,,,0,"File:front-end/menu.js:Menu._topicItemUpdate","JavaScriptClass:Menu:_topicItemUpdate"]]]]);

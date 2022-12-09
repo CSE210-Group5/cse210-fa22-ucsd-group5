@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("abs",["Class"],[["AbstractMenuItem",,[[,,,,0,"File:front-end/abstract-menu-item.js:AbstractMenuItem","JavaScriptClass:AbstractMenuItem"]]],["AbstractObserverPattern",,[[,,,,0,"File:front-end/abstract-observer.js:AbstractObserverPattern","JavaScriptClass:AbstractObserverPattern"]]]]);

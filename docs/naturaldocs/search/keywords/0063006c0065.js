@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("cle",["Function"],[["clearMenuItemContainer",,[["AbstractMenuItem",,,,0,"File:front-end/abstract-menu-item.js:AbstractMenuItem.clearMenuItemContainer","JavaScriptClass:AbstractMenuItem:clearMenuItemContainer"]]]]);

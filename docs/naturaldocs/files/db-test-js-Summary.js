@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("File:db.test.js","db.test.js");NDSummary.OnSummaryLoaded("File:db.test.js",[["JavaScript","JavaScript"]],[["Functions","Function"],["Groups","Group"]],[[9,0,1,"Functions","Functions"],[10,0,0,"Test-1","Test-1"]]);

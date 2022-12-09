@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("ren",["Function"],[["renameEvent",,[["TopicFactory",,,,0,"File:front-end/topic-factory.js:TopicFactory.renameEvent","JavaScriptClass:TopicFactory:renameEvent"],["TweetFactory",,,,0,"File:front-end/tweet-factory.js:TweetFactory.renameEvent","JavaScriptClass:TweetFactory:renameEvent"]]]]);

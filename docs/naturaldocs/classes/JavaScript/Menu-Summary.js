@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("JavaScriptClass:Menu","Menu");NDSummary.OnSummaryLoaded("JavaScriptClass:Menu",[["JavaScript","JavaScript"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[30,0,0,"Menu"],[31,0,2,"Functions","Functions"],[32,0,1,"_topicItemUpdate","_topicItemUpdate"],[33,0,1,"_tweetItemUpdate","_tweetItemUpdate"]]);

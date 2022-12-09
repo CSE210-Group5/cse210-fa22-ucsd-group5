@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("new",["Function"],[["newEvent",,[["TopicFactory",,,,0,"File:front-end/topic-factory.js:TopicFactory.newEvent","JavaScriptClass:TopicFactory:newEvent"],["TweetFactory",,,,0,"File:front-end/tweet-factory.js:TweetFactory.newEvent","JavaScriptClass:TweetFactory:newEvent"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("twe",["Class"],[["TweetFactory",,[[,,,,0,"File:front-end/tweet-factory.js:TweetFactory","JavaScriptClass:TweetFactory"]]]]);

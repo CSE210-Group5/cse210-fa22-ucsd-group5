@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("ini",["Function"],[["initializeItem",,[["AbstractMenuItem",,,,0,"File:front-end/abstract-menu-item.js:AbstractMenuItem.initializeItem","JavaScriptClass:AbstractMenuItem:initializeItem"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("ini",["Function"],[["initUI",,[[,,,,0,"File:index.js:initUI"]]]]);
