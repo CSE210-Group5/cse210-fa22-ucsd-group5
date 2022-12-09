@@ -28,6 +28,12 @@
 
 ### UI/UX
 
+| ADR                                       | Decision                      |
+| ---                                       | ---                           |
+| [ADR-2001](2001-user-pin.md)              | User PIN                      |
+| [ADR-2002](2002-twitter-integration.md)   | Twitter Integration           |
+| [ADR-2003](2003-multiple-tags.md)         | Multiple Tags                 |
+
 
 ### Testing
 

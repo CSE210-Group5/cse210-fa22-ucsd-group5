@@ -16,5 +16,5 @@ The decision to make here is whether we include a search feature
 
 ## Decision Outcome
 
-We chose not to implement the feature due to time and resource constraints
+We chose not to implement the feature due to time and resource constraints. Additionally, the browser search in page functionality provides some limited support for this by default.
 
