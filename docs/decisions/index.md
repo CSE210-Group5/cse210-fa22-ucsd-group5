@@ -13,7 +13,8 @@
 | [ADR-0003](0003-data-storage.md)          | Data Storage                  |
 | [ADR-0004](0004-backend-language.md)      | Backend Language              |
 | [ADR-0005](0005-db-schema-design.md)      | Database Schema Design        |
-| [ADR-0006](0005-frontend-communication.md)| Frontend Communication        |
+| [ADR-0006](0006-frontend-communication.md)| Frontend Communication        |
+| [ADR-0007](0007-unit-testing.md)          | Unit Testing                  | 
 
 ### Frontend
 
